@@ -1,0 +1,6 @@
+sensor_id,location,temperature
+S01,Lab_A,24.5
+S02,Server_Room,31.2
+S03,Lab_A,22.8
+S04,Greenhouse,29.0
+S05,Server_Room,33.5
